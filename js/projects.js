@@ -35,6 +35,7 @@ oss_projects['pyleus'] = {
 oss_projects['MOE'] = {
   blog_post: 'http://engineeringblog.yelp.com/2014/07/introducing-moe-metric-optimization-engine-a-new-open-source-machine-learning-service-for-optimal-ex.html'
 }
+oss_projects['dumb-init'] = { language: 'C' }
 
 oss_projects['zygote'] = { deprecated: true }
 oss_projects['s3mysqldump'] = { deprecated: true }
